@@ -61,7 +61,6 @@ Since the first k square numbers are about
 O(k
 4
 ) overall.
-problem_zero.py
 
  ![Squares Found vs Iteration Line Graph](squares_found_vs_iteration_line.png)
 
@@ -73,8 +72,6 @@ problem_zero.py
 O(
 n
 ), the algorithm still performs work on every integer it tests, so the runtime is driven by the full range of iterations rather than by the smaller number of squares found.
-problem_zero.py
-+1
 
 ## Conclusion
 According to the computation [log](./problem_zero_computation.json), the algorithm took about `144` seconds to reach around `43904` iterations and had found `209` square numbers at that point, which illustrates how costly the brute-force approach becomes as the search range grows.
