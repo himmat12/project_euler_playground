@@ -1,7 +1,7 @@
-# Problem Zero 
+# Problem Zero - Brute-Force Solution Algorithmic Complexity Analysis
 
 ## Code Implementation
-* [problem_zero.py](../../problems/problem_zero.py)
+* [Brute-Force Algorithm Implementation](../../problems/problem_zero_brute_force.py)
 * [problem_zero_test.py](../../tests/problem_zero/problem_zero_test.py)
     * [Test file (square_numbers.txt)](../../tests/problem_zero/square_numbers.txt)
 * [Benchmarks](./benchmarks/README.md)
